@@ -1,6 +1,6 @@
 # Bonjour, je suis Frédéric Mendes Semedo 👋
 
-🚀 En reconversion professionnelle dans le domaine de la **Data Science** et du **Data Engineering** après 9 ans d'expérience dans le secteur du **Foodservice**.
+🚀 En reconversion professionnelle dans le domaine de la **Data Science** et du **Data Engineering** après 9 ans en tant que sales dans le secteur du **Foodservice**.
 
 🌱 Actuellement en formation chez **Jedha Bootcamp**, je développe mes compétences en :
 - **Python**, **Machine Learning**, **Big Data**, et **Data Engineering**.
