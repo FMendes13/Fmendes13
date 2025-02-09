@@ -1,16 +1,18 @@
-## Hi there 👋
+# Bonjour, je suis Frédéric Mendes Semedo 👋
 
-<!--
-**FMendes13/Fmendes13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 En reconversion professionnelle dans le domaine de la **Data Science** et du **Data Engineering** après 9 ans d'expérience dans le secteur du **Foodservice**.
 
-Here are some ideas to get you started:
+🌱 Actuellement en formation chez **Jedha Bootcamp**, je développe mes compétences en :
+- **Python**, **Machine Learning**, **Big Data**, et **Data Engineering**.
+- **Outils** : Spark, Databricks, Apache Airflow, Snowflake, AWS, Docker, Kubernetes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Projets en cours :**
+- Développement de modèles de Machine Learning et de Deep Learning.
+- Création de pipelines de données avec Apache Airflow - à venir
+- Déploiement d'applications data avec Streamlit et FastAPI.
+
+📫 **Contact :**
+- Email : frederic.mendes.semedo@gmail.com
+- LinkedIn : [Mon Profil LinkedIn](https://www.linkedin.com/in/votre-profil-linkedin)
+
+⚡ **Fun fact :** Je suis également passionné de musique et collectionneur de vinyles !
