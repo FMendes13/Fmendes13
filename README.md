@@ -6,7 +6,7 @@
 - **Python**, **Machine Learning**, **Big Data**, et **Data Engineering**.
 - **Outils** : Spark, Databricks, Apache Airflow, Snowflake, AWS, Docker, Kubernetes.
 
-🔧 **Projets en cours :**
+🔧 **Projets :**
 - Développement de modèles de Machine Learning et de Deep Learning.
 - Création de pipelines de données avec Apache Airflow - à venir
 - Déploiement d'applications data avec Streamlit et FastAPI.
