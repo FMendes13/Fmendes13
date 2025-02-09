@@ -1,4 +1,4 @@
-# Bonjour, je suis Frédéric Mendes Semedo 👋
+# Bonjour 👋
 
 🚀 En reconversion professionnelle dans le domaine de la **Data Science** et du **Data Engineering** après 9 ans en tant que sales dans le secteur du **Foodservice**.
 
