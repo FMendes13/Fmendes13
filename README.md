@@ -13,6 +13,6 @@
 
 📫 **Contact :**
 - Email : frederic.mendes.semedo@gmail.com
-- LinkedIn : [Mon Profil LinkedIn](https://www.linkedin.com/in/votre-profil-linkedin)
+- LinkedIn : [Mon Profil LinkedIn](https://www.linkedin.com/in/frédéric-mendes-semedo/)
 
 ⚡ **Fun fact :** Je suis également passionné de musique et collectionneur de vinyles !
