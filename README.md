@@ -16,4 +16,6 @@
 - LinkedIn : [Mon Profil LinkedIn](https://www.linkedin.com/in/frédéric-mendes-semedo/)
 
 ⚡ **Fun fact :** Je suis également passionné de musique et collectionneur de vinyles !
-![views](https://rushter.com/counter.svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Fmendes13&label=VUES+DU+PROFIL)
+
