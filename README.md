@@ -8,7 +8,7 @@
 
 🔧 **Projets :**
 - Développement de modèles de Machine Learning et de Deep Learning.
-- Création de pipelines de données avec Apache Airflow - à venir
+- Création de pipelines de données avec Apache Airflow
 - Déploiement d'applications data avec Streamlit et FastAPI.
 
 📫 **Contact :**
